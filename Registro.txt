@@ -1,8 +1,12 @@
 Practica Git
 estado : Terminado
 
-2da Etapa 
+2da Etapa
 Modificar y clonar
-estado: En proceso
+estado: completado
+
+3ra Etapa
+trabajar en git:
+estado --- en proceso
 
 by  daniel
