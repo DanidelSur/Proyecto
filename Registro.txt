@@ -7,6 +7,6 @@ estado: completado
 
 3ra Etapa
 trabajar en git:
-estado --- en proceso
+estado terminado
 
 by  daniel
